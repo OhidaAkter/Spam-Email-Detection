@@ -2,6 +2,8 @@
 
 A simple web app that checks if an email is spam or not. Just paste your email and click a button!
 
+Live Link: [ https://spam-email-check.streamlit.app/ ]
+
 ---
 
 ## 🎯 What Does This Do?
